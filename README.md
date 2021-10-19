@@ -1,4 +1,4 @@
-# Predict Car Prices
+# Predict Cars Prices
 Web Scraping/Linear Regression
 ### Data Description:
 Using cars.com dataset. The focus is on Audi cars. Using Python library Beautiful Soup to scrape the cars
