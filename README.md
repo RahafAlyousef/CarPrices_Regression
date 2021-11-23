@@ -29,3 +29,7 @@ price.
 - BeautifulSoup
 - requests
 - scipy.stats
+
+By:
+- [Rahaf Alyousef](https://github.com/rahafkh1)
+- [Ghadah Alharbi](https://github.com/ghadh-fr)
